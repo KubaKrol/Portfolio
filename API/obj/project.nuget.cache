@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "hNflE9ZvJRqCj0mKXABEFMlB+NM8Qn6ukoQBGHbAJqoOje8n/dY11LTO9UUDkz5CEIf3P+9hdxvY6WQOxVbJlA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rozporek\\Desktop\\Studia\\ZPAI\\PortfolioApp\\API\\API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rozporek\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\rozporek\\.nuget\\packages\\microsoft.openapi\\1.1.4\\microsoft.openapi.1.1.4.nupkg.sha512",
+    "C:\\Users\\rozporek\\.nuget\\packages\\swashbuckle.aspnetcore\\5.5.1\\swashbuckle.aspnetcore.5.5.1.nupkg.sha512",
+    "C:\\Users\\rozporek\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.5.1\\swashbuckle.aspnetcore.swagger.5.5.1.nupkg.sha512",
+    "C:\\Users\\rozporek\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.5.1\\swashbuckle.aspnetcore.swaggergen.5.5.1.nupkg.sha512",
+    "C:\\Users\\rozporek\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.5.1\\swashbuckle.aspnetcore.swaggerui.5.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
