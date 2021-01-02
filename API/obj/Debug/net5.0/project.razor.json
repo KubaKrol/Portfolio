@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "e:\\Portfolio\\Portfolio\\API\\API.csproj",
+  "TargetFramework": "net5.0",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  }
+}

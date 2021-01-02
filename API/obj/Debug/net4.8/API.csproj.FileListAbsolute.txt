@@ -1,0 +1,5 @@
+E:\Portfolio\Portfolio\API\obj\Debug\net4.8\API.csprojAssemblyReference.cache
+E:\Portfolio\Portfolio\API\obj\Debug\net4.8\API.exe.config
+E:\Portfolio\Portfolio\API\obj\Debug\net4.8\API.AssemblyInfoInputs.cache
+E:\Portfolio\Portfolio\API\obj\Debug\net4.8\API.AssemblyInfo.cs
+E:\Portfolio\Portfolio\API\obj\Debug\net4.8\API.csproj.CoreCompileInputs.cache

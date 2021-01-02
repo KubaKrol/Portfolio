@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rozporek\\Desktop\\Studia\\ZPAI\\PortfolioApp\\API\\API.csproj": {}
+    "E:\\Portfolio\\Portfolio\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rozporek\\Desktop\\Studia\\ZPAI\\PortfolioApp\\API\\API.csproj": {
+    "E:\\Portfolio\\Portfolio\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rozporek\\Desktop\\Studia\\ZPAI\\PortfolioApp\\API\\API.csproj",
+        "projectUniqueName": "E:\\Portfolio\\Portfolio\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\rozporek\\Desktop\\Studia\\ZPAI\\PortfolioApp\\API\\API.csproj",
+        "projectPath": "E:\\Portfolio\\Portfolio\\API\\API.csproj",
         "packagesPath": "C:\\Users\\rozporek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rozporek\\Desktop\\Studia\\ZPAI\\PortfolioApp\\API\\obj\\",
+        "outputPath": "E:\\Portfolio\\Portfolio\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rozporek\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,16 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.5.1, )"
@@ -63,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-rc.1.20452.10\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
