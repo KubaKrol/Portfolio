@@ -82,3 +82,10 @@ E:\Portfolio\Portfolio\API\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sq
 E:\Portfolio\Portfolio\API\bin\Debug\net5.0\Humanizer.dll
 E:\Portfolio\Portfolio\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
 E:\Portfolio\Portfolio\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Portfolio\Portfolio\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Portfolio\Portfolio\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Portfolio\Portfolio\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Portfolio\Portfolio\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Portfolio\Portfolio\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Portfolio\Portfolio\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Portfolio\Portfolio\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
