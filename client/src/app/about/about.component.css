@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+    margin-top: 20px;
+  }
+  
+  .column {
+    width: 40%;
+    padding: 10px;
+  }
+
+  img{
+      position: relative;
+      transform: translateX(70%);
+      height: 90%;
+      width: 50%;
+  }
+  
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }

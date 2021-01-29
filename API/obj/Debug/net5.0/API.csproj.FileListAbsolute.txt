@@ -89,3 +89,6 @@ E:\Portfolio\Portfolio\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
 E:\Portfolio\Portfolio\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 E:\Portfolio\Portfolio\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
 E:\Portfolio\Portfolio\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Portfolio\Portfolio\API\bin\Debug\net5.0\MailKit.dll
+E:\Portfolio\Portfolio\API\bin\Debug\net5.0\MimeKit.dll
+E:\Portfolio\Portfolio\API\bin\Debug\net5.0\BouncyCastle.Crypto.dll
