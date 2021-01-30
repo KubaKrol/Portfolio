@@ -9,17 +9,17 @@ namespace API.Services
 {
     public class EmailService : IEmailService
     {         
-        private readonly string smtpUser = "";
-        private readonly string smtpPass = "";
+        private readonly string smtpUser = "gosu.bis@gmail.com";
+        private readonly string smtpPass = "qyyuvzlfaqwkhlwt";
 
-        public void Send(string to, string subject, string html, string from = null)
+        public void Send(string subject, string message)
         {
             // create message
             var email = new MimeMessage();
-            email.From.Add(MailboxAddress.Parse(from));
-            email.To.Add(MailboxAddress.Parse(to));
+            email.From.Add(MailboxAddress.Parse("gosu.bis@gmail.com"));
+            email.To.Add(MailboxAddress.Parse("gosu.bis@gmail.com"));
             email.Subject = subject;
-            email.Body = new TextPart(TextFormat.Html) { Text = html };
+            email.Body = new TextPart(TextFormat.Html) { Text = message };
 
             // send email
             using var smtp = new SmtpClient();
