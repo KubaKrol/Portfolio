@@ -13,5 +13,6 @@ namespace API.Data
         public DbSet<AppUser> Users { get; set; }
         public DbSet<BlogPost> Posts { get; set; }
         public DbSet<AppUserRole> Roles { get; set; } 
+        public DbSet<Email> Emails { get; set; }
     }
 }
